@@ -24,12 +24,12 @@
   },
   "homepage": "https://github.com/track0x1/react-iife#readme",
   "dependencies": {
-    "react": "^0.14.0 || ^15.0.0",
+    "react": "^0.14.0 || ^15.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.10.1",
     "babel-core": "^6.10.4",
-    "babel-eslint": "^6.1.2",
+    "babel-preset-es2015": "^6.9.0",
     "react-addons-test-utils": "^15.2.1",
     "rimraf": "^2.5.3"
   }
