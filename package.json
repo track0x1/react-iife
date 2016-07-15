@@ -1,0 +1,36 @@
+{
+  "name": "react-iife",
+  "version": "0.0.0",
+  "description": "A react.js wrapper component that allows you to invoke a function once mounted.",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "babel src --out-dir lib",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/track0x1/react-iife.git"
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "iife",
+    "wrapper"
+  ],
+  "author": "Tom Beute <beute.thomas@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/track0x1/react-iife/issues"
+  },
+  "homepage": "https://github.com/track0x1/react-iife#readme",
+  "dependencies": {
+    "react": "^0.14.0 || ^15.0.0",
+  },
+  "devDependencies": {
+    "babel-cli": "^6.10.1",
+    "babel-core": "^6.10.4",
+    "babel-eslint": "^6.1.2",
+    "react-addons-test-utils": "^15.2.1",
+    "rimraf": "^2.5.3"
+  }
+}
