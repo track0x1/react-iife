@@ -1,6 +1,6 @@
 {
   "name": "react-iife",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A react.js wrapper component that allows you to invoke a function once mounted.",
   "main": "lib/iife.js",
   "scripts": {
