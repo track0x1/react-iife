@@ -5,7 +5,7 @@ A react.js wrapper component that allows you to invoke a function on mount.
 
 ## Installation
 
-React-IIFE requires **React 0.14 or later.**
+React-IIFE requires **React 15 or later.**
 
 ```
 npm install --save react-iife
