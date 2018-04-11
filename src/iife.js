@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 
 export default class IIFE extends React.Component {
     constructor(props) {
@@ -17,6 +18,6 @@ export default class IIFE extends React.Component {
 }
 
 IIFE.propTypes = {
-    children: React.PropTypes.node,
-    fn: React.PropTypes.func.isRequired
+    children: PropTypes.node,
+    fn: PropTypes.func.isRequired
 };

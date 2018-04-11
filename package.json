@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/track0x1/react-iife#readme",
   "peerDependencies": {
+    "prop-types": "^15.0.0 || ^16.0.0",
     "react": "^15.0.0 || ^16.0.0"
   },
   "devDependencies": {
